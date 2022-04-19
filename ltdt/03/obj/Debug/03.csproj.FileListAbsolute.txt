@@ -1,0 +1,7 @@
+C:\Users\BaDang\source\repos\ltdt\03\bin\Debug\03.exe.config
+C:\Users\BaDang\source\repos\ltdt\03\bin\Debug\03.exe
+C:\Users\BaDang\source\repos\ltdt\03\bin\Debug\03.pdb
+C:\Users\BaDang\source\repos\ltdt\03\obj\Debug\03.csprojAssemblyReference.cache
+C:\Users\BaDang\source\repos\ltdt\03\obj\Debug\03.csproj.CoreCompileInputs.cache
+C:\Users\BaDang\source\repos\ltdt\03\obj\Debug\03.exe
+C:\Users\BaDang\source\repos\ltdt\03\obj\Debug\03.pdb

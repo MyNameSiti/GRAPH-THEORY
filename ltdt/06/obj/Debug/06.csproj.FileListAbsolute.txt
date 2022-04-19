@@ -1,0 +1,6 @@
+C:\Users\BaDang\source\repos\ltdt\06\bin\Debug\06.exe.config
+C:\Users\BaDang\source\repos\ltdt\06\bin\Debug\06.exe
+C:\Users\BaDang\source\repos\ltdt\06\bin\Debug\06.pdb
+C:\Users\BaDang\source\repos\ltdt\06\obj\Debug\06.csproj.CoreCompileInputs.cache
+C:\Users\BaDang\source\repos\ltdt\06\obj\Debug\06.exe
+C:\Users\BaDang\source\repos\ltdt\06\obj\Debug\06.pdb
